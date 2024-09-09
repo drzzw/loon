@@ -12,20 +12,9 @@ DOMAIN,api.ipify.org,DIRECT
 DOMAIN-SUFFIX,www.xnmzj.com,DIRECT
 DOMAIN,vv.jisuzyv.com,DIRECT
 IP-CIDR,172.247.68.75/32,DIRECT
-DOMAIN,122.225.213.119,REJECT
-DOMAIN-SUFFIX,mktadsodr.ppdai.com,REJECT
-DOMAIN,ocsp.digicert.com,REJECT
-DOMAIN,clue.oceanengine.com,REJECT
-DOMAIN,auction-load.unityads.unity3d.com,REJECT
 DOMAIN-KEYWORD,apple,DIRECT
-DOMAIN-SUFFIX,appraven.net,Final
 DOMAIN-SUFFIX,123456.buzz,DIRECT
-DOMAIN-SUFFIX,7777777.buzz,emby
-DOMAIN-SUFFIX,tanhuatv.site,emby
-DOMAIN,6666666.buzz,Final
-DOMAIN-SUFFIX,iuii-music.cn,Final
 DOMAIN-SUFFIX,api.lrc.cx,DIRECT
-IP-CIDR,85.239.235.232/32,Final
 DOMAIN-SUFFIX,epicgames.com,DIRECT
 DOMAIN,pxxnz4-inapps.appsflyersdk.com,DIRECT
 DOMAIN,tv.iill.top,DIRECT
@@ -36,12 +25,8 @@ DOMAIN-SUFFIX,qmai.cn,DIRECT
 GEOIP,cn,DIRECT
 DOMAIN,www.xmmade.com,DIRECT
 DOMAIN-SUFFIX,apple.com,DIRECT
-DOMAIN,p53-buy.itunes.apple.com,DIRECT
-DOMAIN-KEYWORD,googleads,REJECT-DROP
+DOMAIN,p53-buy.itunes.apple.com
 DOMAIN-KEYWORD,icloud,DIRECT
-DOMAIN,film.hovervan.org,emby
-DOMAIN-KEYWORD,emby,emby
-DOMAIN,789.123456.al,emby
 IP-CIDR, 28.0.0.1/8 // Clash.meta's Fake IP
 IP-CIDR, 198.18.0.1/16 // Clash.meta's Fake IP
 IP-CIDR, 198.18.0.0/15 // sing-box's Fake IP
