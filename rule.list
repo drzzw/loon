@@ -1,4 +1,4 @@
-#loon自定义分流
+#loon自定义，直连
 DOMAIN-KEYWORD,api.*.com,DIRECT
 USER-AGENT,XPlayer*,DIRECT
 USER-AGENT,Dart*,DIRECT
@@ -40,3 +40,4 @@ IP-CIDR, 198.18.0.0/15, no-resolve
 IP-CIDR6, ::1/128, no-resolve
 IP-CIDR6, fc00::/7, no-resolve
 IP-CIDR6, fe80::/10, no-resolve
+DOMAIN-SUFFIX,tlkqc.com
