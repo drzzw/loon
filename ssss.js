@@ -2,7 +2,7 @@
 #!desc=ghs
 
 [Script]
-http-request ^https:\/\/[^\/]*\..*\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)? script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ghs/sssss.js, timeout=60, tag=sssss
+http-request ^https:\/\/[^\/]*\..*\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)? script-path=https://raw.githubusercontent.com/drzzw/loon/main/ssss.js, timeout=60, tag=ssss
 
 [MITM]
 hostname = 120play.*.cn, h5play.*.com, long.*.cn, *.fipxor.cn, *.lwnryh.cn
